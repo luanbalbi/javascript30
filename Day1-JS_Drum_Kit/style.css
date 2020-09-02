@@ -10,10 +10,14 @@ body,html {
   font-family: sans-serif;
 }
 
+.container {
+  margin: 20%;
+  min-height: 100vh;
+}
+
 .keys {
   display: flex;
   flex: 1;
-  min-height: 100vh;
   align-items: center;
   justify-content: center;
 }
