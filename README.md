@@ -13,3 +13,6 @@ Day 3 done! This project was great to learn how to manipulate CSS variables with
 
 Day 4 completed! It wasn't a project exactly. It was some great array excercises with map(), reduce(), filter() and sort().
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day04-Array_Cardio_Day_1/
+
+Day 5: I learned a little bit about flex panels and how to make transitions using JavaScript.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day05-Flex_Panel_Gallery/
