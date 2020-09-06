@@ -16,3 +16,6 @@ Day 4 completed! It wasn't a project exactly. It was some great array excercises
 
 Day 5: I learned a little bit about flex panels and how to make transitions using JavaScript.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day05-Flex_Panel_Gallery/
+
+Type ahead on Day 6. Cities/States are showed as you type.
+<br> To check it out: https://luanbalbi-javascript30.glitch.me/Day06-Type_Ahead/
