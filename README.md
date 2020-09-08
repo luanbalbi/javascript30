@@ -22,3 +22,6 @@ Type ahead on Day 6. Cities/States are showed as you type.
 
 Day 7 was another array training day using some(), every(), find() and findIndex().
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day07-Array_Cardio_Day_2/
+
+Day 8: I've learned to use JS to draw on html canvas.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day08-Fun_with_HTML5_Canvas/
