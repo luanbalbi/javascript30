@@ -18,4 +18,7 @@ Day 5: I learned a little bit about flex panels and how to make transitions usin
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day05-Flex_Panel_Gallery/
 
 Type ahead on Day 6. Cities/States are showed as you type.
-<br> To check it out: https://luanbalbi-javascript30.glitch.me/Day06-Type_Ahead/
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day06-Type_Ahead/
+
+Day 7 was another array training day using some(), every(), find() and findIndex().
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day07-Array_Cardio_Day_2/
