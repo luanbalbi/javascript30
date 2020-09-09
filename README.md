@@ -25,3 +25,6 @@ Day 7 was another array training day using some(), every(), find() and findIndex
 
 Day 8: I've learned to use JS to draw on html canvas.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day08-Fun_with_HTML5_Canvas/
+
+Day 9: I've learned some console tricks. I already knew some of them, like console.log(), .clear() and .table(). But there are a lot of other useful tools.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day09-Dev_Tools_Domination/
