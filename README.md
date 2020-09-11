@@ -28,3 +28,6 @@ Day 8: I've learned to use JS to draw on html canvas.
 
 Day 9: I've learned some console tricks. I already knew some of them, like console.log(), .clear() and .table(). But there are a lot of other useful tools.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day09-Dev_Tools_Domination/
+
+Day 10 and 1/3 of this challenge completed! Yay! Very useful functionality for any real project by holding Shift key to check multiples checkboxes.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day10-Hold_Shift_and_Check_Checkboxes/
