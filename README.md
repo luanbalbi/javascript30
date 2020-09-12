@@ -34,3 +34,6 @@ Day 10 and 1/3 of this challenge completed! Yay! Very useful functionality for a
 
 Day 11 - I built a custom video player with basic features like Play/Pause, volume, velocity, skip, progressBar and fullscreen.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day11-Custom_Video_Player/
+
+Day 12 - I've learned how to create secret codes, like many games have. It is known as Konami code, where you have to press a correct sequence of keys to unlock some feature.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day12-Key_Sequence_Detection/
