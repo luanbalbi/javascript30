@@ -37,3 +37,6 @@ Day 11 - I built a custom video player with basic features like Play/Pause, volu
 
 Day 12 - I've learned how to create secret codes, like many games have. It is known as Konami code, where you have to press a correct sequence of keys to unlock some feature.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day12-Key_Sequence_Detection/
+
+Day 13 completed! I set up slide in effects on scroll for the pictures.
+<br>To check it out: https://luanbalbi-javascript30.glitch.me/Day13-Slide_in_on_Scroll/
