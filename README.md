@@ -40,3 +40,6 @@ Day 12 - I've learned how to create secret codes, like many games have. It is kn
 
 Day 13 completed! I set up slide in effects on scroll for the pictures.
 <br>To check it out: https://luanbalbi-javascript30.glitch.me/Day13-Slide_in_on_Scroll/
+
+Day 14 wasn't a project, again, but I could learn about differences between Array/Object References and copying in JS.
+<br>Check it out(Code+console only): https://luanbalbi-javascript30.glitch.me/Day14-JavaScript_References_VS_Copying/
