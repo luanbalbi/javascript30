@@ -43,3 +43,6 @@ Day 13 completed! I set up slide in effects on scroll for the pictures.
 
 Day 14 wasn't a project, again, but I could learn about differences between Array/Object References and copying in JS.
 <br>Check it out(Code+console only): https://luanbalbi-javascript30.glitch.me/Day14-JavaScript_References_VS_Copying/
+
+On day 15, I worked with a very simple, but cool project. It's like a list of orders/plates. The point was learn about StorageLocation and Event Delegation!
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day15-LocalStorage/
