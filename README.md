@@ -46,3 +46,6 @@ Day 14 wasn't a project, again, but I could learn about differences between Arra
 
 On day 15, I worked with a very simple, but cool project. It's like a list of orders/plates. The point was learn about StorageLocation and Event Delegation!
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day15-LocalStorage/
+
+Day 16 - A simple and funny project where I used JS and CSS to create a text shadow effect on mouse movement.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day16-Mouse_Move_Shadow/
