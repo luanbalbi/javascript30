@@ -49,3 +49,6 @@ On day 15, I worked with a very simple, but cool project. It's like a list of or
 
 Day 16 - A simple and funny project where I used JS and CSS to create a text shadow effect on mouse movement.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day16-Mouse_Move_Shadow/
+
+Day 17 - A mini project to sort band names without consider articles at the beginning.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day17-Sort_Without_Articles/
