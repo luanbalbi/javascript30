@@ -55,3 +55,6 @@ Day 17 - A mini project to sort band names without consider articles at the begi
 
 Day 18 - Using reduce to add up time. Video time is set as data-time property in <li> elements. Total time on console.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day18-Adding_Up_Times_with_Reduce/
+
+Day 19 - Learning how to use webcam with JS and manipulating pixels for rgb effects(line code commented)
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day19-Webcam_Fun/
