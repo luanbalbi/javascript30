@@ -52,3 +52,6 @@ Day 16 - A simple and funny project where I used JS and CSS to create a text sha
 
 Day 17 - A mini project to sort band names without consider articles at the beginning.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day17-Sort_Without_Articles/
+
+Day 18 - Using reduce to add up time. Video time is set as data-time property in <li> elements. Total time on console.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day18-Adding_Up_Times_with_Reduce/
