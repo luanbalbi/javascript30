@@ -58,3 +58,6 @@ Day 18 - Using reduce to add up time. Video time is set as data-time property in
 
 Day 19 - Learning how to use webcam with JS and manipulating pixels for rgb effects(line code commented)
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day19-Webcam_Fun/
+
+Day 20 - I've learned Speech recognition and transcription.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day20-Speech_Detection/
