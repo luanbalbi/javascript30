@@ -61,3 +61,6 @@ Day 19 - Learning how to use webcam with JS and manipulating pixels for rgb effe
 
 Day 20 - I've learned Speech recognition and transcription.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day20-Speech_Detection/
+
+Day 21 - I've learned how to use Geolocation with JS and built a wind rose for direction and velocity. 
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day21-Geolocation/
