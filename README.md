@@ -64,3 +64,6 @@ Day 20 - I've learned Speech recognition and transcription.
 
 Day 21 - I've learned how to use Geolocation with JS and built a wind rose for direction and velocity. 
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day21-Geolocation/
+
+On day 22, I've learned how to add a highlight effect to follow mouse pointer when focusing a link.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day22-Follow_Along_Link_Highlighter/
