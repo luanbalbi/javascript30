@@ -70,3 +70,6 @@ On day 22, I've learned how to add a highlight effect to follow mouse pointer wh
 
 Day 23 - I've learned how to set up speech synthesis with JS. Control rate, pitch and choose the voice.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day23-Speech_Synthesis/
+
+Day 24 - I implemented a sticky nav bar, where it stays on screen while scrolling down. It also shows the logo when sticked on top.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day24-Sticky_Nav/
