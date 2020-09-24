@@ -67,3 +67,6 @@ Day 21 - I've learned how to use Geolocation with JS and built a wind rose for d
 
 On day 22, I've learned how to add a highlight effect to follow mouse pointer when focusing a link.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day22-Follow_Along_Link_Highlighter/
+
+Day 23 - I've learned how to set up speech synthesis with JS. Control rate, pitch and choose the voice.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day23-Speech_Synthesis/
