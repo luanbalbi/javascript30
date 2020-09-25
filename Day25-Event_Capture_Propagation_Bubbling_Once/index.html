@@ -40,9 +40,10 @@
   }
 </style>
 
-<button></button>
+<button>Once</button>
 <script>
   const divs = document.querySelectorAll('div');
+  const button = document.querySelector('button');
 
   function logText(e) {
     console.log(this.classList.value);
@@ -51,8 +52,14 @@
 
   divs.forEach(div => div.addEventListener('click', logText, {
     capture: false,
-    once: true // same as div.removeEventListener('click', logText);
+    once: false
   }));
+
+  button.addEventListener('click', () => {
+    console.log('CLICK!');
+  }, {
+    once: true // same as div.removeEventListener('click', logText);
+  });
 
 </script>
 </body>
