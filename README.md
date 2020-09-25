@@ -73,3 +73,6 @@ Day 23 - I've learned how to set up speech synthesis with JS. Control rate, pitc
 
 Day 24 - I implemented a sticky nav bar, where it stays on screen while scrolling down. It also shows the logo when sticked on top.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day24-Sticky_Nav/
+
+Day 25 - It's not a project, but I could learn some event concepts, like Capture, Propagation, Bubbling and Once.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day25-Event_Capture_Propagation_Bubbling_Once/
