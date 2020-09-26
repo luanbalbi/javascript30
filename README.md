@@ -76,3 +76,6 @@ Day 24 - I implemented a sticky nav bar, where it stays on screen while scrollin
 
 Day 25 - It's not a project, but I could learn some event concepts, like Capture, Propagation, Bubbling and Once.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day25-Event_Capture_Propagation_Bubbling_Once/
+
+On day 26, I learned how to make a stripe follow you along navbar. 
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day26-Stripe_Follow_Along_Nav/
