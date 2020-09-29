@@ -80,5 +80,8 @@ Day 25 - It's not a project, but I could learn some event concepts, like Capture
 On day 26, I learned how to make a stripe follow you along navbar. 
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day26-Stripe_Follow_Along_Nav/
 
-Day 27 - I learned how to make a click and drag functionality with JS
+Day 27 - I learned how to make a click and drag functionality with JS.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day27-Click_and_Drag/
+
+Day 28 - Today I've learned to make a custom Video Speed Controller;
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day28-Video_Speed_Controller/
