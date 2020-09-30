@@ -85,3 +85,6 @@ Day 27 - I learned how to make a click and drag functionality with JS.
 
 Day 28 - Today I've learned to make a custom Video Speed Controller;
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day28-Video_Speed_Controller/
+
+Day 29 - Today I've learned how to create a countdown timer with different time options to select.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day29-Countdown_Timer/
