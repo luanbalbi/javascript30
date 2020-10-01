@@ -88,3 +88,6 @@ Day 28 - Today I've learned to make a custom Video Speed Controller;
 
 Day 29 - Today I've learned how to create a countdown timer with different time options to select.
 <br>Check it out: https://luanbalbi-javascript30.glitch.me/Day29-Countdown_Timer/
+
+Last day on this Challenge! Day30 - I've created a clickable minigame where you have to hit the mole that appears randomly on the holes for a random time.
+<br>Check it out: https://luanbalbi-javascript30.glitch.me/Day30-Whack_A_Mole/
